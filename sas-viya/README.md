@@ -9,8 +9,8 @@
 <IMG SRC="https://azbotstorage.blob.core.windows.net/badges/sas-viya/BestPracticeResult.svg" />&nbsp;
 <IMG SRC="https://azbotstorage.blob.core.windows.net/badges/sas-viya/CredScanResult.svg" />&nbsp;
 
-[![Deploy to Azure](https://raw.githubusercontent.com/julien-van-burk/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2julien-van-burk%2Fazure-quickstart-templates%2Fmaster%2Fsas-viya%2Fazuredeploy.json) 
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fjulien-van-burk%2Fsas-viya%2Fazuredeploy.json" target="_blank">
+[![Deploy to Azure](https://raw.githubusercontent.com/julien-van-burk/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjulien-van-burk%2Fazure-quickstart-templates%2Fmaster%2Fsas-viya%2Fazuredeploy.json) 
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fjulien-van-burk%2Fazure-quickstart-templates%2Fmaster%2Fsas-viya%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/julien-van-burk/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
 </a>
 
